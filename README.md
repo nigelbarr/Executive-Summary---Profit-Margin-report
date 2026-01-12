@@ -12,4 +12,4 @@ This report aims to clearly visualize financial data and insights in a Power BI 
 
 <h2>View the Interactive Report</h2>
 
-👉 [Executive Summary - Finance Report](https://app.powerbi.com/view?r=eyJrIjoiMzYzZTZiNTctNWIwMC00M2UxLTk2MTMtODk2YWEyMGNhZWY2IiwidCI6IjE1MmM1M2FhLWIyZTQtNDU1My1iYjgzLWEyMDQ2MGFhZDg1NyIsImMiOjZ9)
+👉 [Executive Summary - Profit Margin Report](https://app.powerbi.com/view?r=eyJrIjoiMTcwOTM4ZGEtM2EwNi00Y2E3LTg1NjQtNTFlYjc4ZDJmZDIyIiwidCI6IjE1MmM1M2FhLWIyZTQtNDU1My1iYjgzLWEyMDQ2MGFhZDg1NyIsImMiOjZ9)
