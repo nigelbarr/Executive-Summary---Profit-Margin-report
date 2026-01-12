@@ -5,7 +5,7 @@ This report aims to clearly visualize financial data and insights in a Power BI 
 <p align="center">
 
 <p align="center">
-<img src="https://i.imgur.com/2disZ6Z.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/m5sJNxm.png" height="80%" width="80%"/>
 <br />
 <br />
 
